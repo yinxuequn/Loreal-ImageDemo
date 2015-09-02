@@ -1,0 +1,10 @@
+C:\Users\Administrator.IBEX-PURSUIT\Desktop\image project\ImageDemo\ImageDemo\bin\Debug\ImageDemo.exe
+C:\Users\Administrator.IBEX-PURSUIT\Desktop\image project\ImageDemo\ImageDemo\bin\Debug\ImageDemo.pdb
+C:\Users\Administrator.IBEX-PURSUIT\Desktop\image project\ImageDemo\ImageDemo\obj\x86\Debug\ImageDemo.exe
+C:\Users\Administrator.IBEX-PURSUIT\Desktop\image project\ImageDemo\ImageDemo\obj\x86\Debug\ImageDemo.pdb
+C:\Loreal Image\ImageDemo\ImageDemo\obj\x86\Debug\ImageDemo.exe
+C:\Loreal Image\ImageDemo\ImageDemo\obj\x86\Debug\ImageDemo.pdb
+C:\Loreal Image\ImageDemo\ImageDemo\bin\Debug\ImageDemo.exe
+C:\Loreal Image\ImageDemo\ImageDemo\bin\Debug\ImageDemo.pdb
+C:\Loreal Image\ImageDemo\ImageDemo\bin\Debug\ImageDemo.exe.config
+C:\Loreal Image\ImageDemo\ImageDemo\obj\x86\Debug\ImageDemo.csprojResolveAssemblyReference.cache
